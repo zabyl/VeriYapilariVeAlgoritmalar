@@ -1,2 +1,2 @@
 # VeriYapilariVeAlgoritmalar
-Projeler
+Projeler ve cevapları
